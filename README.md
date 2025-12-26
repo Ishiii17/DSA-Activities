@@ -1,10 +1,8 @@
 # Data Structures & Algorithms Activities
 
-This repository contains my personal implementations of various fundamental Data Structures and Algorithms (DSA) using the C programming language.
+This repository contains my implementations of different fundamentals in DSA.
 
-## 📂 Repository Structure
-
-Here is an overview of the data structures included in this collection:
+## Overview of Repository
 
 | Directory |
 | :--- | 
@@ -22,6 +20,6 @@ Here is an overview of the data structures included in this collection:
 ## 👤 Author
 
 * **Hiroshi Curimatmat**
-
+* **Group 11 CIS 2101 1st Semester 2025-2026**
 ---
 *This repository is for educational purposes.*
